@@ -1,6 +1,7 @@
 # Bienvenido a mi Perfil de GitHub 🚀
 
-¡Hola! Soy Botk, un apasionado por la administración de redes y telecomunicaciones, actualmente estudiando en DuocUC. Mi experiencia abarca desde el manejo de servidores hasta la programación en Lua y el diseño web. Además, soy un entusiasta de la ciberseguridad y tengo un conflicto amistoso con las impresoras HP.
+¡Hola! Soy Botk, Estudiante de Administracion en redes y telecomunicaciones DuocUC. Mi experiencia abarca desde el manejo de servidores hasta la programación en Lua y el diseño web. Además, soy un entusiasta de la ciberseguridad.
+Te odio HP.
 
 ## Certificado en Oracle Cloud Infrastructure (OCI) ☁️
 
