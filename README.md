@@ -1,10 +1,35 @@
-❤Hola soy Botk tambien conocido como claper.❤ 
-🌐Estudio telecomunicaciones en DuocUC.🌐
-🟢Experiencia de 2 años en servidores.
-🔵Experiencia de 1 año en lua.
-🔴Aprendiendo mas lenguajes como javascript.
+# Bienvenido a mi Perfil de GitHub 🚀
 
-Puedes visitar mis proyectos de gamesserver en https://www.novuvitae.ml
-hablame en discord Ботка#1652
+¡Hola! Soy Botk, un apasionado por la administración de redes y telecomunicaciones, actualmente estudiando en DuocUC. Mi experiencia abarca desde el manejo de servidores hasta la programación en Lua y el diseño web. Además, soy un entusiasta de la ciberseguridad y tengo un conflicto amistoso con las impresoras HP.
 
-la mayoria de mis proyectos son privados no me maltrates.
+## Certificado en Oracle Cloud Infrastructure (OCI) ☁️
+
+Certificado Oracle Cloud Infraestructure, lo que me permite trabajar de manera eficiente en entornos cloud.
+
+## Líder de Servidores en Citt Maipú 👨‍💻
+
+En Citt Maipú, lidero el equipo de servidores, haciendo nuevos proyectos para la comunidad DuocUC
+
+---
+
+![banner](https://www.deviantart.com/maruftim/art/T-34-85-719324508)
+
+---
+
+## Contacto 📬
+
+- Email: botk-4@protonmail.com
+
+---
+
+## Habilidades Técnicas 💡
+
+- Administración de Redes
+- Programación en Lua y JavaScript
+- Diseño Web
+- Ciberseguridad
+
+## Idiomas 🌐
+
+- Español (Nativo)
+
