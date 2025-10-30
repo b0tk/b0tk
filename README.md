@@ -4,12 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b0tk&label=Profile%20views&color=0e75b6&style=flat" alt="b0tk" /> </p>
 
 - Trabajo actualemte [POLVORIN Y CIA LTDA]()
-- Movistar Arena
-- Claro Arena
-- LOLLA PALOOZA
-- Estadio Nacional
-- CORP PARTES
-- METROPOLITAN
 
 
 
